@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Study on **SMKN 2 Yogyakarta**
 
-- 🌱 I’m currently learning **Tailwind**
+- 🌱 I’m currently learning **Tailwind CSS**
 
 - ⚡ Fun fact **I Junior Programmer**
 
